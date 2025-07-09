@@ -1,3 +1,3 @@
 test branch text..
-
+main is stashed, and i am in test branch
 test2 text.
